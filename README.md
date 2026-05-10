@@ -19,3 +19,6 @@ Unlike standard linear chatbots, ASLA is built on a **Directed Cyclic Graph (Lan
 2. Copy `.env.example` to `.env` and add your Google Gemini API key.
 3. Run `pip install -r requirements.txt`.
 4. Launch the cockpit: `streamlit run main.py`.
+
+
+***This is First AI Agent Built for Space Exploration (Commit: May 10th, 2026, Sunday).***
