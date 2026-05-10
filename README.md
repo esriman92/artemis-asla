@@ -21,4 +21,4 @@ Unlike standard linear chatbots, ASLA is built on a **Directed Cyclic Graph (Lan
 4. Launch the cockpit: `streamlit run main.py`.
 
 
-***This is First Cognitive Assistant Built for Space Exploration for Mineralogy and Geology with Autonomous Logger for Data Analysis and Modeling (Commit: May 10th, 2026, Sunday).***
+***This is First Cognitive Assistant System that is Built for Space Exploration for Analyzing Mineralogy and Geology of Extrateresstrial Terrain with Autonomous Logger for Data Analysis and Modeling Utilizing Upstream and Downstream Communication Channel via connected satellites from within Space Gear (Commit: May 10th, 2026, Sunday).***
